@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    text-align: center;
+}
+
+.cardsContainer {
+    display: flex;
+    margin: 40px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
