@@ -38,6 +38,14 @@
 
 .sup-titles {
     margin-left: 20px;
+    margin-top: 21px;
+    font-family: 'Trebuchet MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #666666;
 }
 
 .description {
@@ -79,4 +87,25 @@
 
 .disabledDescription {
     color: #FFFF66;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.sub-titles {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.text {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #666666;
+
 }

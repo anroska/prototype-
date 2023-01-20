@@ -1,6 +1,9 @@
 .title {
     color: white;
     text-align: center;
+    font-family: 'Exo2.0';
+    font-size: 36px;
+    line-height: 44px;
 }
 
 .cardsContainer {
